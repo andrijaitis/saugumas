@@ -1,0 +1,1081 @@
+{
+  "questions": [
+    {
+    "id": 1.1,
+    "question": "Kas atsakingas už medžioklinių ginklų ir šaudmenų tinkamą laikymą ir saugojimą?",
+    "options": [
+      "Asmeniškai kiekvienas medžiotojas",
+      "Medžiotojų klubo pirmininkas",
+      "Visi šeimos nariai",
+      "Viešosios policijos vadovas"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 1.2,
+    "question": "Kaip turi būti laikomas medžioklinis lygiavamzdis ginklas kelionės metu?",
+    "options": [
+      "Įdėtas į dėklą, nuleistais mušamaisiais mechanizmais ir jei leidžia techninės galimybės – išnarstytas",
+      "Tik įdėjus į bagažinę",
+      "Kiekvienas medžiotojas savo ginklą turi vežtis išėmęs iš dėklo ir pasidėjęs šalia savęs",
+      "Gali būti vežamas sunarstytas, bet be šovinių ir su įjungtu saugikliu"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 1.3,
+    "question": "Kada galima šaudyti iš bokštelių?",
+    "options": [
+      "Kai gerai matomas šaudymo sektorius ir taikinys",
+      "Nuo birželio mėnesio 1 d. iki spalio 1 d.",
+      "Kai medžiotojas žino, kad tikrai neiškris iš bokštelio",
+      "Jei bokštelis ne senesnis, nei dveji metai"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 1.4,
+    "question": "Iš kokių bokštelių galima medžioti?",
+    "options": [
+      "Tik iš standartinių, pirktų specializuotose parduotuvėse",
+      "Iš bokštelių, kurių kopėčios, grindys, sėdynės ir kitos dalys yra tvirtos",
+      "Tik iš medinių",
+      "Tik iš neaukštesnių, nei 5 metrai"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 1.5,
+    "question": "Kada galima medžioti iš bokštelių?",
+    "options": [
+      "Kai bokštelis ne žemesnis, nei 5 metrai",
+      "Kai bokštelio kopėčios metalinės",
+      "Jeigu bokštelyje įrengtas perkūnsargis",
+      "Kai medžiotojas gerai žino, kur ir kokiu atstumu yra išsidėstę kiti bokšteliai ir yra įsitikinęs, kad šūvis bus saugus"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 1.6,
+    "question": "Kada negalima medžioti iš bokštelių?",
+    "options": [
+      "Jei bokštelis žemesnis nei 5 metrai",
+      "Nuo spalio 1 d. iki kovo 1 d.",
+      "Kai griaudžia perkūnija",
+      "Kai bokštelio konstrukcijos netvirtos ir bokštelis smarkiai siūbuoja"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 1.7,
+    "question": "Kada gali būti užtaisomas šautuvas atvykus į medžioklės plotus tykoti žvėrių?",
+    "options": [
+      "Tik užpildžius medžioklės lapą ir atsisėdus į tykojimo bokštelį",
+      "Pagal medžiotojų tarpusavio susitarimą",
+      "Kai pamatomas medžiotinas žvėris",
+      "Tik išlipus iš mašinos"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 1.8,
+    "question": "Kada gali būti užtaisomas šautuvas atvykus į medžioklės plotus medžioti sėlinant?",
+    "options": [
+      "Tik užpildžius medžioklės lapą ir pradėjus sėlinti",
+      "Pagal medžiotojų tarpusavio susitarimą",
+      "Kai pamatomas medžiotinas žvėris",
+      "Tik išlipus iš mašinos"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 1.9,
+    "question": "Kada gali būti užtaisomas šautuvas atvykus į medžioklės plotus medžioti varant?",
+    "options": [
+      "Tik užpildžius medžioklės lapą ir atsistojus į šaudymo vietą medžiotojų linijoje",
+      "Pagal medžiotojų tarpusavio susitarimą",
+      "Kai pamatomas medžiotinas žvėris",
+      "Kai leidžia vyriausias medžiotojas"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 1.10,
+    "question": "Medžiojant grandine, medžiotojas privalo:",
+    "options": [
+      "Laikytis 300 kampo taisyklės",
+      "Laikytis saugaus atstumo tarp medžiotojų",
+      "Laikytis minimalaus atstumo tarp medžiotojų",
+      "Neprašauti pro šalį nei vieno žvėries"
+    ],
+    "correct_answer": 0
+  },
+  
+    {
+      "id": 2.1,
+      "question": "Medžiojant grandine, medžiotojas privalo:",
+      "options": [
+        "Į abu vamzdžius įsidėti vienodus šovinius",
+        "Laikytis medžioklės vadovo reikalavimų",
+        "Nesišnekėti su kaimynais grandinėje",
+        "Iš tolo aplenkti naminius gyvulius"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.2,
+      "question": "Ką privalo medžiotojas medžiojant grandine?",
+      "options": [
+        "Matyti, kur yra medžioklės vadovas",
+        "Pranešus kaimyniniam medžiotojui nedelsiant bėgti prie sužeisto žvėries",
+        "Stengtis išlaikyti tiesią liniją",
+        "Eiti kuo tyliau ir be vadovo leidimo nesustoti"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.3,
+      "question": "Ar galima spragsėti šautuvo nuleistukais?",
+      "options": [
+        "Galima tik prieš medžioklės pradžią",
+        "Galima tik išbandant šautuvą prieš kiekvieną varymą",
+        "Negalima",
+        "Galima tik naujam šautuvui"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.4,
+      "question": "Kada medžioklinis šautuvas gali būti išimamas iš dėklo?",
+      "options": [
+        "Tik atvykus į medžioklės vietą",
+        "Atvykus į medžioklės plotus ir užpildžius medžioklės lapą",
+        "Įvažiavus į medžioklės klubo plotus",
+        "Liepus medžioklės vadovui"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.5,
+      "question": "Kada galima atidaryti šautuvą, jeigu paspaudus nuleistuką jis neiššauna?",
+      "options": [
+        "Ne anksčiau kaip po minutės",
+        "Ne anksčiau, nei po 10 sekundžių",
+        "Ne anksčiau, kaip po valandos",
+        "Atidaryti galima tik specialiose dirbtuvėse"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.6,
+      "question": "Kaip galima šauti į žvėrį medžioklėse varant, stovint ant žemės medžiotojų linijoje?",
+      "options": [
+        "Tik stovint",
+        "Stovint arba sėdint",
+        "Stovint, klūpant arba sėdint",
+        "Stovint, klūpant, sėdint arba gulint"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.7,
+      "question": "Kada medžioklėse varant dalyvaujantis medžiotojas iš medžiotojų linijos gali šaudyti sėdėdamas?",
+      "options": [
+        "Kai pavargsta",
+        "Kai medžiojama tik smulkieji medžiojamieji žvėrys",
+        "Kai šaudo iš medžiotojų linijoje įrengto bokštelio, kurio kraštai, skirti šautuvu atremti yra ne mažesniame aukštyje nuo žemės paviršiaus kaip žmogaus ūgis",
+        "Kai tai leidžia medžioklės vadovas"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.8,
+      "question": "Kokiu atstumu gali būti pavojingi 4 mm šratai?",
+      "options": [
+        "Iki 1000 m",
+        "Iki 1500 m",
+        "Iki 400 m",
+        "Iki 250 m"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.9,
+      "question": "Kokiu atstumu gali būti pavojingos 8 mm grankulkės?",
+      "options": [
+        "Iki 1000 m",
+        "Iki 1500 m",
+        "Iki 800 m",
+        "Iki 400 m"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.10,
+      "question": "Kokiu atstumu pavojingos lygiavamzdžio šautuvo kulkos?",
+      "options": [
+        "Iki 1000 m",
+        "Iki 500 m",
+        "Iki 1500 m",
+        "Iki 3000 m"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.11,
+      "question": "Ką būtina padaryti prieš užtaisant šautuvą?",
+      "options": [
+        "Sutepti vamzdžius, kad šratai nesubraižytų jų paviršiaus",
+        "Patikrinti, ar nekliba lovelis",
+        "Patikrinti, ar tvirtai pritvirtinta buožė",
+        "Įsitikinti, ar neužsikimšę vamzdžiai"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 2.12,
+      "question": "Ką būtina padaryti po įtartino (silpno ar užsitęsusio) šūvio?",
+      "options": [
+        "Įsitikinti, ar šautuvo vamzdžiuose nėra likusių kamščių",
+        "Patikrinti, šovinius",
+        "Sutepti šautuvo vamzdžius",
+        "Išvalyti tepalą iš vamzdžių"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.13,
+      "question": "Kas nustato kiekvieno medžiotojo vietą medžiotojų linijoje?",
+      "options": [
+        "Kiekvienas medžiotojas savarankiškai",
+        "Medžioklės vadovas",
+        "Artimiausias kaimynas iš dešinės",
+        "Artimiausias kaimynas iš kairės"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.14,
+      "question": "Ar gali medžiotojas pats pasirinkti savo vietą medžiotojų linijoje?",
+      "options": [
+        "Gali, nes kiekvienas medžiotojas vietą pasirenka savarankiškai",
+        "Negali",
+        "Gali, jeigu nepasitiki medžioklės vadovu",
+        "Gali tik medžiojant smulkiuosius žvėris"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.15,
+      "question": "Kaip leidžiama laukti pasirodančių gyvūnų medžiotojų linijoje?",
+      "options": [
+        "Tik stovint",
+        "Stovint arba sėdint",
+        "Stovint, sėdint arba gulint",
+        "Jei leidžia oro sąlygos – sėdint arba gulint"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.16,
+      "question": "Ar galima medžioklėse varant bei sėlinant naudoti apvalias kulkas?",
+      "options": [
+        "Negalima",
+        "Galima tik leidus medžioklės vadovui",
+        "Nerekomenduojama, nes dyla šautuvo vamzdžiai",
+        "Galima tik stambiųjų kanopinių žvėrių medžioklėje"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.17,
+      "question": "Ar galima medžioklėse varant bei sėlinant naudoti didesnius nei 9 mm skersmens šratus?",
+      "options": [
+        "Negalima",
+        "Galima tik leidus medžioklės vadovui",
+        "Galima tik 16 kalibro šautuvais",
+        "Galima tik stambiųjų kanopinių žvėrių medžioklėje"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.18,
+      "question": "Kaip turi būti nešiojamas medžioklinis graižtvinis šautuvas medžioklės metu?",
+      "options": [
+        "Be šovinių lizde ir su įjungtu saugikliu",
+        "Išnarstytas",
+        "Su ištraukta ir išimta spyna",
+        "Užtaisytas"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.19,
+      "question": "Kaip turi būti nešiojamas medžioklinis lygiavamzdis šautuvas medžioklės metu?",
+      "options": [
+        "Perlaužtas, be šovinių lizde ir su įjungtu saugikliu",
+        "Išnarstytas",
+        "Išnarstytas ir įdėtas į dėklą",
+        "Užtaisytas"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.20,
+      "question": "Kaip turi būti nešiojamas medžioklinis kombinuotas šautuvas medžioklės metu?",
+      "options": [
+        "Perlaužtas, be šovinių lizde ir su įjungtu saugikliu",
+        "Išnarstytas",
+        "Išnarstytas ir įdėtas į dėklą",
+        "Užtaisytas"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.21,
+      "question": "Ar galima pasitraukti iš vietos medžiotojų linijoje kol nesibaigęs varymas?",
+      "options": [
+        "Draudžiama, kol nepasibaigęs varymas",
+        "Galima iki 25 m į kairę ir į dešinę išilgai medžiotojų linijos",
+        "Galima 15 m spinduliu",
+        "Galima tik einant pažiūrėti, ar šautas žvėris krito"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.22,
+      "question": "Ar galima pasitraukti iš savo vietos medžiotojų linijoje, jei medžioja tik 3 medžiotojai, iš kurių 1 varovas?",
+      "options": [
+        "Draudžiama, kol nepasibaigęs varymas",
+        "Galima",
+        "Kiekvienas sprendžia pagal situaciją",
+        "Galima, jei po šūvio einama pažiūrėti, ar šautas žvėris krito"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.23,
+      "question": "Ar galima pajudėti iš vietos medžiotojų linijoje kol nesibaigęs varymas?",
+      "options": [
+        "Galima iki 5 m į kairę ir į dešinę tik išilgai medžiotojų linijos",
+        "Draudžiama, kol nepasibaigęs varymas",
+        "Galima, bet ne didesniu kaip 25 m spinduliu",
+        "Galima tik einant pažiūrėti, ar šautas žvėris krito"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.24,
+      "question": "Kada galima pasitraukti iš vietos medžiotojų linijoje?",
+      "options": [
+        "Tik pasibaigus varymui",
+        "Po šūvio, kai žvėris nekrito vietoje ir pranešus artimiausiems kaimynams",
+        "Po šūvio, kai žvėris nekrito vietoje, kai reikia sekti jo pėdsakais",
+        "Mobiliuoju telefonu pranešus medžioklės vadovui ir pažymėjus savo stovėjimo vietą"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.25,
+      "question": "Ar galima šauti į varovų pusę, jei jie prie linijos priartėjo per 200 m?",
+      "options": [
+        "Galima, jei tai nesukelia varovams pavojaus ir matoma, kur smigs kulka ar šratai",
+        "Draudžiama",
+        "Galima tik tada, kai pribaigiamas sužeistas žvėris",
+        "Galima tik tada, jei nemato medžioklės vadovas"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.26,
+      "question": "Kur turi būti nukreipti sunarstyto šautuvo vamzdžiai tykojant bokštelyje ir laukiant medžiojamųjų gyvūnų?",
+      "options": [
+        "Tik į viršų",
+        "Tik į viršų ir į žemę",
+        "Į įtartiną šlamesį",
+        "Į šoną"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.27,
+      "question": "Kur turi būti nukreipti sunarstyto šautuvo vamzdžiai stovint medžiotojų linijoje ir laukiant medžiojamųjų gyvūnų?",
+      "options": [
+        "Tik į viršų ar į žemę",
+        "Tik į priekį",
+        "Į įtartiną šlamesį",
+        "Į priešingą nuo varovų pusę"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.28,
+      "question": "Kur turi būti nukreipti sunarstyto šautuvo vamzdžiai medžiojant grandine ar katilu ir laukiant medžiojamųjų gyvūnų?",
+      "options": [
+        "Tik į viršų ar į žemę",
+        "Tik į priekį",
+        "Tik tiesiai į priekį",
+        "Į šoną"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.29,
+      "question": "Kokiame variante pilniausiai išvardintos sąlygos, kaip medžioklinis šautuvas turi būti laikomas ne medžioklės metu?",
+      "options": [
+        "Išnarstytas, jei leidžia techninės galimybės",
+        "Išnarstytas ir įdėtas į dėklą",
+        "Išnarstytas, įdėtas į dėklą ir nuleistu mušamuoju mechanizmu",
+        "Išimtais šoviniais, išnarstytas, nuleistu mušamuoju mechanizmu, įdėtas į dėklą"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 2.30,
+      "question": "Ar galima šauti, jei medžiojamas gyvūnas pasirodo iki varymo pradžios?",
+      "options": [
+        "Galima, jei esi tikras, kad pataikysi",
+        "Negalima, jeigu medžiojami šernai bei elniai",
+        "Galima, jei tai nesukels pavojaus aplinkiniams medžiotojams",
+        "Galima, jei medžiojami kiškiai bei lapės ir leidžia medžioklės vadovas"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.31,
+      "question": "Kada galima pradėti ieškoti sužeisto žvėries medžioklėje varant?",
+      "options": [
+        "Tik leidus medžioklės vadovui",
+        "Praėjus ne mažiau kaip 1 valandai po šūvio",
+        "Reikia nuspręsti savarankiškai",
+        "Jei sunkiai sužeistas stambus kanopinis žvėris– nedelsiant"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.32,
+      "question": "Kur gali būti išbandomi šautuvai ar šaudmenys?",
+      "options": [
+        "Tik specialioje šaudykloje",
+        "Šaudykloje ar kitoje saugioje vietoje, įsitikinus, kad nėra pavojaus žmonėms ar gyvūnams",
+        "Medžioklės metu, medžiojant smulkiąją fauną",
+        "Bet kur, bet būtinai dalyvaujant policijos pareigūnui"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.33,
+      "question": "Kaip turi būti išbandomi šautuvai ar šaudmenys?",
+      "options": [
+        "Iš anksto suderinus su žemės savininkais",
+        "Šaudykloje ar kitoje saugioje vietoje, įsitikinus, kad nėra pavojaus žmonėms ar gyvūnams ir užpildžius medžioklės lapą",
+        "Miške, pamiškėje ar pievoje, jeigu tai negąsdina žvėrių",
+        "Bet kur, bet būtinai dalyvaujant policijos pareigūnui"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.34,
+      "question": "Ar galima šauti, jei medžiojamas gyvūnas pasirodo pasibaigus varymui?",
+      "options": [
+        "Šauti galima tik į stambų kanopinį žvėrį",
+        "Šauti draudžiama, išskyrus atvejį, kai pribaigiamas surastas sužeistas žvėris",
+        "Galima šauti, jei tai nesukelia pavojaus varovams",
+        "Galima šauti tik smulkiąją fauną"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.35,
+      "question": "Ar gali šauti į medžiojamuosius gyvūnus medžiotojai, varyme varantys žvėris?",
+      "options": [
+        "Gali šauti tik virš žmogaus ūgio skrendančius paukščius",
+        "Negali",
+        "Gali šauti tik tada, jei pro šalį bėga sužeistas žvėris",
+        "Gali tik tada, jei iš anksto leido medžioklės vadovas"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.36,
+      "question": "Ar gali medžiotojai, varyme varantys žvėris neštis užtaisytą šautuvą?",
+      "options": [
+        "Gali",
+        "Gali, jei medžiojami šernai",
+        "Gali, jei medžiojama smulkioji fauna",
+        "Negali"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 2.37,
+      "question": "Ar galima šaudyti šoviniais, užtaisytais didesne nei leidžiama parako norma?",
+      "options": [
+        "Galima, jeigu parako norma neviršija 20 % leidžiamos instrukcijoje",
+        "Negalima",
+        "Galima, jei oro temperatūra žemesnė nei 150 C",
+        "Galima tik šaudant kulkomis"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.38,
+      "question": "Šaudamas medžiotojas, pagal Medžioklės taisykles, privalo įsitikinti:",
+      "options": [
+        "Kad jo šūvis nebus pavojingas žmonėms, gyvuliams, nemedžiojamiems gyvūnams, nepadarys žalos pastatams ar kitiems objektams",
+        "Kad šauna tinkamo kalibro šautuvu",
+        "Kad atstumas iki taikinio ne didesnis kaip 100 metrų",
+        "Kad neišgąsdins kitų laukinių žvėrių"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.39,
+      "question": "Ar medžiotojas gali šauti lygiavamzdžiu šautuvu į briedį, stovintį 150 m atstumu nuo fermos?",
+      "options": [
+        "Gali, bet tik įsitikinęs, kad pataikys",
+        "Gali, bet tik įsitikinęs kad jo šūvis nebus pavojingas žmonėms ar jam pačiam",
+        "Prieš šaudamas medžiotojas privalo įsitikinti, ar fermoje nėra žmonių",
+        "Negali"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 2.40,
+      "question": "Kaip turi elgtis medžioklės vadovas, statantis medžiotojus prie vingiuotų kelių ar miške be kvartalinių linijų?",
+      "options": [
+        "Medžiotojus sustatyti kuo tiesesne linija",
+        "Nurodyti šauti į žvėris tik už medžiotojų linijos",
+        "Leisti medžiotojams patiems pasirinkti galimas šaudymo kryptis",
+        "Paaiškinti, kur susirinkti pasibaigus varymui"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.41,
+      "question": "Ką turi paaiškinti medžioklės vadovas, statantis medžiotojus į liniją prie vingiuotų kelių ar miške be kvartalinių linijų?",
+      "options": [
+        "Paaiškinti, kurioje vietoje jis bus pats",
+        "Paaiškinti, kad šūvio kryptį medžiotojai turi pasirinkti patys savarankiškai, priklausomai nuo aplinkybių",
+        "Medžiotojams nurodyti galimas šaudymo kryptis",
+        "Paaiškinti, kada baigsis varymas"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.42,
+      "question": "Kieno nurodymus vykdo varovai?",
+      "options": [
+        "Medžioklės ir varovų vadovų",
+        "Vadovaujasi savo nuožiūra",
+        "Vyriausio amžiumi medžiotojo",
+        "Elgiasi priklausomai nuo aplinkybių"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.43,
+      "question": "Kada sunarstyto šautuvo vamzdžius nedraudžiama nukreipti į žmogų?",
+      "options": [
+        "Kai esi įsitikinęs, kad šautuvas neužtaisytas",
+        "Kai tam neprieštarauja asmuo, į kurį nukreipiate šautuvo vamzdžius",
+        "Sunarstyto šautuvo vamzdžių niekada negalima nukreipti į žmogų",
+        "Kai šautuvo vamzdžiuose yra šoviniai su labai smulkiais šratais"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.44,
+      "question": "Ar galima šauti lygiavamzdžiu šautuvu išsyk iš abiejų vamzdžių?",
+      "options": [
+        "Galima tik medžiojant stambius kanopinius žvėris",
+        "Galima tik medžiojant paukščius",
+        "Galima tik šaudant į orą",
+        "Negalima"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 2.45,
+      "question": "Kodėl negalima šauti lygiavamzdžiu šautuvu išsyk iš abiejų vamzdžių?",
+      "options": [
+        "Medžiojant stambius kanopinius žvėris yra galimybė pataikyti grankulkėmis",
+        "Medžiojant paukščius padidėja sklaida",
+        "Neaišku, iš kurio vamzdžio paleistas šūvis pataikys",
+        "Pavojinga, nes gali sprogti vamzdžiai ir tą draudžia Medžioklės taisyklės"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 2.46,
+      "question": "Ką reikia daryti, jeigu iš lygiavamzdžio šautuvo vamzdžio neišsiima įstrigęs šovinys?",
+      "options": [
+        "Patikrinti, ar tikrai buvo įdėtas tinkamas šovinys",
+        "Patikrinti, ar šoviniai nesušlapę",
+        "Įspėjus aplinkinius iššauti į viršų",
+        "Per šautuvo vamzdžių galą iškalti šovinį"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.47,
+      "question": "Kada medžioklinį šautuvą galima naudoti ne tik pagal tiesioginę paskirtį?",
+      "options": [
+        "Negalima niekada",
+        "Galima tik tada, jei reikia naudotis kaip atrama lipant per kliūtis",
+        "Galima tik nukritusio laimikio paieškai žolėje",
+        "Galima tik laimikio ištraukimui iš vandens"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.48,
+      "question": "Kada sužeistą žvėrį galima pribaigti, smogiant jam šautuvo buože?",
+      "options": [
+        "Tik sužeidus kanopinius žvėris",
+        "Tik sužeidus plėšrūnus",
+        "Tik sužeidus bebrus",
+        "Niekada negalima"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 2.49,
+      "question": "Kada galima šaudyti į neaiškiai matomą taikinį?",
+      "options": [
+        "Tik tada, kai blogas matomumas, labai smarkiai sninga ar lyja",
+        "Negalima niekada",
+        "Galima tik medžiojant šernus vasarą, tykojant bokšteliuose",
+        "Galima tik aiškiai girdint medžiojamo žvėries garsus"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.50,
+      "question": "Ar galima šaudyti plaukiojančius vandens paukščius?",
+      "options": [
+        "Galima tik laukius ir ant vandens tupinčias sužeistas antis",
+        "Galima tik dar neskraidančius didžiųjų ančių jauniklius",
+        "Galima tik įsitikinus, jog šūvis saugus",
+        "Galima tik nardančiąsias antis"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.51,
+      "question": "Kuo turi būti įsitikinęs medžiotojas, jeigu jis šauna ant vandens esantį paukštį?",
+      "options": [
+        "Kad tikrai pataikys, antraip bus sunku surasti",
+        "Tuo, kad sumedžiotą gyvūną pavyks greitai ištraukti, antraip jis nuskęs",
+        "Tuo, kad nuo vandens paviršiaus atšokę šratai nebus kam nors pavojingi",
+        "Ant vandens esančių gyvūnų šauti negalima"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.52,
+      "question": "Ar galima medžioti grandine retuose krūmuose?",
+      "options": [
+        "Negalima",
+        "Galima",
+        "Galima, jei leidžia medžioklės vadovas",
+        "Galima tik medžiojant kiškius"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.53,
+      "question": "Ką būtina padaryti parkritus su šautuvu?",
+      "options": [
+        "Patikrinti, ar neužsikimšo vamzdžiai",
+        "Patikrinti, ar nesulūžo buožė",
+        "Patikrinti, ar nesušlapo šoviniai",
+        "Patikrinti, ar neiškrito šoviniai"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.54,
+      "question": "Ar galima šaudyti, jeigu medžioklės varant metu matomumą labai apsunkina smarkus lietus ar sniegas?",
+      "options": [
+        "Galima, jei varymas nesibaigęs",
+        "Galima, jei leidžia medžioklės vadovas",
+        "Negalima",
+        "Galima, jei medžiojama smulkioji fauna"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.55,
+      "question": "Ar galima šauti, jei medžioklės metu pradeda labai smarkiai šalti ir oro temperatūra tampa žemesnė nei –250 C?",
+      "options": [
+        "Negalima",
+        "Galima",
+        "Galima tik tada, jeigu šoviniai užtaisyti 1,5 karto didesne parako norma",
+        "Negalima, nes šautuvas gali nešauti"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.56,
+      "question": "Ar galima šaudyti lygiavamzdžiu šautuvu sėlinant, jei nuo saulės nusileidimo praėjo 2,5 valandos?",
+      "options": [
+        "Galima",
+        "Negalima",
+        "Galima tik medžiojant šernus",
+        "Galima tik medžiojant bebrus"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.57,
+      "question": "Kada medžiojant katilu galima šauti į jo vidų?",
+      "options": [
+        "Visada, jeigu medžiojamos tik lapės",
+        "Visada, jeigu medžiojami tik zuikiai",
+        "Tik tol, kol tai nepavojinga kitiems medžiotojams",
+        "Negalima niekada"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.58,
+      "question": "Ar galima medžioti iš valties?",
+      "options": [
+        "Galima, bet tik iš medinės",
+        "Galima tik turint irkluotojo pažymėjimą",
+        "Galima tik iš techniškai tvarkingos valties, kurioje yra gelbėjimosi priemonės",
+        "Negalima niekada"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.59,
+      "question": "Kaip reikia įlipti į valtį medžiojant vandens paukščius?",
+      "options": [
+        "Perspėjus aplinkinius medžiotojus ir iš anksto užsitaisius šautuvą",
+        "Užsitaisyti šautuvą ir pasiruošti šūviui prieš sėdant į valtį, nes valtyje tai daryti nesaugu",
+        "Įsitikinus, kad valtis nejudamai stovi krante, užsitaisyti šautuvą ir atsisėdus laukti, kol irkluotojas nustums į vandenį",
+        "Įlipti į valtį galima tik su neužtaisytu medžiokliniu šautuvu"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 2.60,
+      "question": "Kada galima taikytis išilgai medžiotojų linijos?",
+      "options": [
+        "Galima tik prieš varymą",
+        "Galima tik neužtaisytu šautuvu",
+        "Negalima niekada",
+        "Galima tik vedant vamzdžiais per liniją bėgantį žvėrį"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.61,
+      "question": "Ar galima šauti į žvėrį, jei jis matomas prie horizonto linijos?",
+      "options": [
+        "Galima šauti bet kokiu atveju",
+        "Galima šauti tik stambius kanopinius žvėris",
+        "Galima šauti tik gerai žinant vietovę",
+        "Negalima niekada"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 2.62,
+      "question": "Ar galima medžioti arčiau negu 200 m nuo gyvenamųjų pastatų?",
+      "options": [
+        "Galima turint visus medžioklei reikalingus dokumentus",
+        "Galima tik turint pastatų šeimininko leidimą",
+        "Negalima niekada",
+        "Galima tik medžiojant smulkiąją fauną"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.63,
+      "question": "Ar galima šaudyti iš pripučiamos valties?",
+      "options": [
+        "Galima tik medžiojant laukius",
+        "Galima tik sėdint ir tik šaudant į priešingą irkluotojui pusę",
+        "Galima tik jeigu valties dugnas kietas",
+        "Negalima"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.64,
+      "question": "Ar galima šauti išilgai vandens telkinio pakrantės arba link jos?",
+      "options": [
+        "Galima tik paukščius, skrendančius aukščiau nei žmogaus ūgis",
+        "Galima tik medžiojant varninius paukščius",
+        "Galima tik įsitikinus, kad nendryne nėra žmonių ar gyvūnų",
+        "Negalima"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.65,
+      "question": "Koks vienintelio flange stovinčio medžiotojo šaudymo sektorius laipsniais?",
+      "options": [
+        "180",
+        "90",
+        "270",
+        "210"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.66,
+      "question": "Jeigu statomi medžiotojai flange, už kiek metrų nuo pagrindinės ir flanginės linijų susikirimo kampo gali būti statomas pirmasis flanginis medžiotojas?",
+      "options": [
+        "Ne daugiau kaip už 40 m",
+        "Ne mažiau kaip už 100 m",
+        "Ne mažiau kaip už 50 m",
+        "Ne daugiau kaip už 100 m"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.67,
+      "question": "Kokiu kampu gali šauti galinis flanginis medžiotojas prieš flanginę liniją į tą pusę, kurioje stovi kaimyninis medžiotojas?",
+      "options": [
+        "Gali šauti ne mažesniu kaip 45o",
+        "Šauti į priekį negali",
+        "Gali šauti ne mažesniu kaip 30 o kampu",
+        "Gali šauti ne mažesniu kaip 90 o"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.68,
+      "question": "Kokiu kampu gali šauti galinis flanginis medžiotojas už flanginės linijos į tą pusę, kurioje stovi kaimyninis medžiotojas?",
+      "options": [
+        "Gali šauti ne mažesniu kaip 45o",
+        "Šauti į priekį negali",
+        "Gali šauti ne mažesniu kaip 30 o kampu",
+        "Gali šauti ne mažesniu kaip 90 o"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.69,
+      "question": "Ar medžioklės taisyklės draudžia medžiotojui šauti į žvėrį, medžiojant prie kelių, jei žvėris stabtelėjo ant kelio?",
+      "options": [
+        "Nedraudžia, jeigu tai nekelia pavojaus aplinkiniams",
+        "Draudžia",
+        "Draudžia tik medžiojant kanopinius žvėris",
+        "Nedraudžia tik medžiojant kiškius"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.70,
+      "question": "Kaip reikia elgtis, jeigu žvėris, į kurį nusitaikė medžiotojas, bėga per liniją?",
+      "options": [
+        "Reikia pakelti į viršų arba nuleisti žemyn šautuvo vamzdžius ir vėl taikytis tik žvėriui perbėgus medžiotojų liniją, bet ne mažesniu kaip 30 o kampu linijos atžvilgiu",
+        "Reikia toliau šautuvu vesti bėganti žvėrį ir šauti tik jam prabėgus per liniją",
+        "Reikia toliau šautuvu vesti bėganti žvėrį ir šauti pasitaikius pirmai progai",
+        "Reikia ištaisyti šautuvą ir vėl jį užtaisyti tik žvėriui perbėgus liniją"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.71,
+      "question": "Koks svarbus saugaus elgesio šaudant ypatumas, medžiojant šaltą žiemą?",
+      "options": [
+        "Galima nušalti pirštus ir nejausti šautuvo",
+        "Galima nušalti kojas ir suklupti",
+        "Labai padidėja rikošeto tikimybė",
+        "Pablogėja medžiotojų taiklumas"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.72,
+      "question": "Kokios atsargumo priemonės turi imtis medžiotojas, medžiodamas žiemą, esant daug sniego?",
+      "options": [
+        "Saugotis, kad nenušaltų pirštų, nes nebegalės šauti",
+        "Saugotis, kad nenušaltų kojų",
+        "Prieš šūvį būtina patikrinti šautuvo vamzdžius, ar į juos nepateko sniego",
+        "Saugotis, kad nepaslystų nuo atatrankos šūvio metu"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.73,
+      "question": "Kaip, pagal Medžioklės taisykles, turi būti elgiamasi medžioklės metu įvykus nelaimingam atsitikimui – pribaigdamas žvėrį nesunkiai susižeidė medžiotojas?",
+      "options": [
+        "Medžioklės vadovas turi vieną medžiotoją palikti prie sužeisto medžiotojo, kad suteiktų jam pagalbą, ir tęsti medžioklę",
+        "Medžioklė tęsiama, jei sužeistas medžiotojas pretenzijų niekam neturi",
+        "Sužeistas medžiotojas turi būti vežamas į gydymo įstaigą, o likusieji medžiotojai tęsia medžioklę",
+        "Medžioklės vadovas turi sustabdyti medžioklę ir pasirūpinti, kad nukentėjusiam būtų suteikta visą reikalinga pagalba"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 2.74,
+      "question": "Kaip turi elgtis medžioklės vadovas, jei medžiotojas neklauso jo reikalavimų ir nesilaiko Medžioklės taisyklių?",
+      "options": [
+        "Tokį medžiotoją turi įspėti",
+        "Tokį medžiotojo elgesį apsvarstyti artimiausiame medžiotojų klubo susirinkime",
+        "Tokį medžiotoją pašalinti iš medžioklės",
+        "Iškviesti pareigūnus"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.75,
+      "question": "Ar Medžioklės taisyklės leidžia medžioklės metu laikinai perduoti naudotis šautuvą kitam medžiotojui?",
+      "options": [
+        "Nedraudžia, jeigu tas medžiotojas turi teisę laikyti ir nešiotis tos kategorijos ginklą",
+        "Draudžia",
+        "Draudžia, išskyrus atvejį, kai ginklas perduodamas šeimos nariui",
+        "Draudžia tik ilgesniam kaip 3 parų laikotarpiui"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.76,
+      "question": "Kaip reikia elgtis išlipant iš labai aukšto tykojimo bokštelio?",
+      "options": [
+        "Prieš išlipant išimti šovinius",
+        "Tyliai išlipti ir saugiai pasiekus žemę išimti šovinius",
+        "Su virve nuleisti šautuvą ir pačiam išlipus iš šautuvo išimti šovinius",
+        "Išlipant laikyti paruoštą šautuvą ir stebėti, ar nepasirodys žvėrys"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 2.77,
+      "question": "Ar galima šaudyti dviem medžiotojam iš karto medžiojant iš valties?",
+      "options": [
+        "Galima tik medžiojant laukius",
+        "Galima tik sėdint nusisukus vienam nuo kito ir išmetus 2 inkarus",
+        "Galima jeigu vienas medžiotojas šaudo atsistojęs",
+        "Negalima"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.78,
+      "question": "Kada galima pradėti ieškoti sužeisto žvėries, jeigu varant medžioja tik 3 medžiotojai?",
+      "options": [
+        "Galima tik žinant, kad žvėris jau nusibaigė",
+        "Galima tik leidus medžioklės vadovui",
+        "Galima tik pranešus bent vienam medžioklėje dalyvaujančiam medžiotojui",
+        "Galima pradėti ieškoti po šūvio praėjus 3-4 minutėms, bet apie tai sprendžia kiekvienas medžiotojas individualiai"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2.79,
+      "question": "Kaip, pagal Medžioklės taisykles turi būti elgiamasi medžioklės metu įvykus nelaimingam atsitikimui, susijusiam su medžioklinio ginklo panaudojimu?",
+      "options": [
+        "Medžioklės vadovas turi vieną medžiotoją palikti prie sužeisto medžiotojo, kad suteiktų jam pagalbą, ir tęsti medžioklę",
+        "Medžioklė nutraukiama, sužeistas medžiotojas vežamas į gydymo įstaigą",
+        "Sustabdoma medžioklė, nukentėjusiam suteikiama neatidėliotina pagalba, pažymima, apsaugoma ir aprašoma įvykio vieta, informuojamos atitinkamos institucijos",
+        "Vieni medžiotojai rūpinasi nukentėjusiu, kiti tęsia medžioklę"
+      ],
+      "correct_answer": 2
+    },
+
+    {
+      "id": 3.0,
+      "question": "Kuris medžiotojas pasirinko neteisingą šūvio kryptį?",
+      "image": "path/to/image3.0.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 3.1,
+      "question": "Kuris medžiotojas pasirinko neteisingą šūvio kryptį?",
+      "image": "path/to/image3.1.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 3.2,
+      "question": "Kuris medžiotojas pasirinko neteisingą šūvio kryptį?",
+      "image": "path/to/image3.2.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 3.3,
+      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
+      "image": "path/to/image3.3.png",
+      "options": [
+        "A",
+        "B",
+        "Visi",
+        "B, C ir D"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 3.4,
+      "question": "Kurie medžiotojai pasirinko neteisingą šūvio kryptį?",
+      "image": "path/to/image3.4.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "C ir D"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 3.5,
+      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
+      "image": "path/to/image3.5.png",
+      "options": [
+        "Tik A",
+        "Tik B",
+        "Tik C",
+        "Visi"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 3.6,
+      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
+      "image": "path/to/image3.6.png",
+      "options": [
+        "A",
+        "Tik B",
+        "A, B ir C",
+        "B, C ir D"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 3.7,
+      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
+      "image": "public/images/image3.7.png",
+      "options": [
+        "A ir B",
+        "Tik B",
+        "A, B ir C",
+        "C ir D"
+      ],
+      "correct_answer": 3
+    }
+  ]
+}

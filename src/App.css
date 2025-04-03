@@ -1,0 +1,89 @@
+/* General page styling */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+  margin: 20px;
+  padding: 0;
+}
+
+/* Quiz container styling */
+div {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+/* Question and score text styling */
+p {
+  color: #333333;
+  font-size: 16px;
+}
+
+/* Question header styling */
+h2 {
+  color: #444444;
+  font-size: 24px;
+}
+
+/* Options list styling */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Option item styling */
+li {
+  cursor: pointer;
+  background-color: transparent;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+  border: 1px solid white;
+}
+
+li:hover {
+  background-color: #4CAF50; 
+  border: 1px solid #367B25; 
+}
+
+/* Selected option styling */
+li[selected] {
+  background-color: lightgrey;
+}
+button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.search-bar {
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.search-bar:focus {
+  border-color: #007bff;
+  outline: none;
+}
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
