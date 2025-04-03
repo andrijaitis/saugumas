@@ -53,7 +53,7 @@ const Testai = () => {
 
             {shuffledQuestions[currentQuestionIndex]?.image && (
               <img className="responsive-image"
-                src={`/testai/images/image${shuffledQuestions[currentQuestionIndex]?.id}.png`}
+                src={`/saugumas/images/image${shuffledQuestions[currentQuestionIndex]?.id}.png`}
                 alt="Question Illustration"
               />
             )}
