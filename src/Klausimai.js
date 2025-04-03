@@ -47,7 +47,7 @@ const Klausimai = () => {
                   <br />
                   {question.image && (
                     <img className="responsive-image"
-                      src={`/testai/images/image${question.id}.png`}
+                      src={`/saugumas/images/image${question.id}.png`}
                       alt="Question Illustration"
                     />
                   )}
