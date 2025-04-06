@@ -980,6 +980,29 @@
       ],
       "correct_answer": 2
     },
+    {
+      "id": 2.80,
+      "question": "Kokiu atstumu pavojingos graižtvinio šautuvo kulkos?",
+      "options": [
+        "Iki 1000 m",
+        "Iki 2000 m",
+        "Iki 5000 m",
+        "Iki 3000 m"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2.81,
+      "question": "Ar galima medžioklės metu neštis užtaisytą gražtvinį šautuvą?",
+      "options": [
+        "Negalima",
+        "Galima, jei jis išnarstytas",
+        "Galima, jei jis išnarstytas ir įdėtas į dėklą",
+        "Galima, jei jis perlaužtas, be šovinių lizde ir su įjungtu saugikliu"
+      
+      ],
+      "correct_answer": 0
+    },
 
     {
       "id": 3.01,
@@ -1077,28 +1100,104 @@
       ],
       "correct_answer": 3
     },
+
+
+
     {
       "id": 3.8,
-      "question": "Kokiu atstumu pavojingos graižtvinio šautuvo kulkos?",
+      "question": "Kuris medžiotojas pasirinko neteisingą šūvio kryptį?",
+      "image": "public/images/image3.8.png",
       "options": [
-        "Iki 1000 m",
-        "Iki 2000 m",
-        "Iki 5000 m",
-        "Iki 3000 m"
+        "A",
+        "C",
+        "B",
+        "D"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 3.9,
+      "question": "Kuris medžiotojas pasirinko neteisingą šūvio kryptį?",
+      "image": "public/images/image3.9.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 3.11,
+      "question": "Kuris medžiotojas pasirinko neteisingą šūvio kryptį?",
+      "image": "public/images/image3.11.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 3.12,
+      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
+      "image": "public/images/image3.12.png",
+      "options": [
+        "A",
+        "B",
+        "Visi",
+        "B,C ir D"
       ],
       "correct_answer": 2
     },
     {
-      "id": 3.9,
-      "question": "Ar galima medžioklės metu neštis užtaisytą gražtvinį šautuvą?",
+      "id": 3.13,
+      "question": "Kurie medžiotojai pasirinko neteisingą šūvio kryptį?",
+      "image": "public/images/image3.13.png",
       "options": [
-        "Negalima",
-        "Galima, jei jis išnarstytas",
-        "Galima, jei jis išnarstytas ir įdėtas į dėklą",
-        "Galima, jei jis perlaužtas, be šovinių lizde ir su įjungtu saugikliu"
-      
+        "A ir B",
+        "Tik B",
+        "A, B ir C",
+        "C ir D"
       ],
-      "correct_answer": 0
+      "correct_answer": 3
+    },
+    {
+      "id": 3.14,
+      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
+      "image": "public/images/image3.14.png",
+      "options": [
+        "Tik A",
+        "Tik B",
+        "Tik C",
+        "Visi"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 3.15,
+      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
+      "image": "public/images/image3.15.png",
+      "options": [
+        "A",
+        "Tik B",
+        "A, B ir C",
+        "B, C ir D"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 3.16,
+      "question": "Kurie medžiotojai pasirinko neteisingą šūvio kryptį?",
+      "image": "public/images/image3.16.png",
+      "options": [
+        "Tik A",
+        "Tik B",
+        "A, B ir C",
+        "Visi"  
+      ],
+      "correct_answer": 3
     }
   ]
 }
