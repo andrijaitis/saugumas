@@ -1076,6 +1076,29 @@
         "C ir D"
       ],
       "correct_answer": 3
+    },
+    {
+      "id": 3.8,
+      "question": "Kokiu atstumu pavojingos graižtvinio šautuvo kulkos?",
+      "options": [
+        "Iki 1000 m",
+        "Iki 2000 m",
+        "Iki 5000 m",
+        "Iki 3000 m"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 3.9,
+      "question": "Ar galima medžioklės metu neštis užtaisytą gražtvinį šautuvą?",
+      "options": [
+        "Negalima",
+        "Galima, jei jis išnarstytas",
+        "Galima, jei jis išnarstytas ir įdėtas į dėklą",
+        "Galima, jei jis perlaužtas, be šovinių lizde ir su įjungtu saugikliu"
+      
+      ],
+      "correct_answer": 0
     }
   ]
 }
