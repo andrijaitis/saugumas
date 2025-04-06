@@ -46,7 +46,7 @@ const Testai = () => {
           <h2>{shuffledQuestions[currentQuestionIndex]?.question}</h2>
           <ul>
             {shuffledQuestions[currentQuestionIndex]?.options.map((option, index) => (
-              <li key={index} onClick={() => handleSubmit(index)} style={{ cursor: 'pointer', backgroundColor: selectedOption === index ? 'lightgrey' : 'transparent' }}>
+              <li key={index} onClick={() => handleSubmit(index)} style={{ border: '0.25px solid gray',  cursor: 'pointer', backgroundColor: selectedOption === index ? 'lightgrey' : 'transparent' }}>
                 {option}
               </li>
             ))}
