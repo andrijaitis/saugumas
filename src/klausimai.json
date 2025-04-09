@@ -1111,6 +1111,18 @@
         "Visi"  
       ],
       "correct_answer": 3
+    },
+    {
+      "id": 4.11,
+      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
+      "image": "path/to/image4.11.png",
+      "options": [
+        "A",
+        "Tik B",
+        "B ir C",
+        "A ir D"
+      ],
+      "correct_answer": 3
     }
     
   ]
