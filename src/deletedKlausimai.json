@@ -1,0 +1,99 @@
+{
+       {
+      "id": 3.01,
+      "question": "Kuris medžiotojas pasirinko neteisingą šūvio kryptį?",
+      "image": "path/to/image3.0.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 3.1,
+      "question": "Kuris medžiotojas pasirinko neteisingą šūvio kryptį?",
+      "image": "path/to/image3.1.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 3.2,
+      "question": "Kuris medžiotojas pasirinko neteisingą šūvio kryptį?",
+      "image": "path/to/image3.2.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 3.3,
+      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
+      "image": "path/to/image3.3.png",
+      "options": [
+        "A",
+        "B",
+        "Visi",
+        "B, C ir D"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 3.4,
+      "question": "Kurie medžiotojai pasirinko neteisingą šūvio kryptį?",
+      "image": "path/to/image3.4.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "C ir D"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 3.5,
+      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
+      "image": "path/to/image3.5.png",
+      "options": [
+        "Tik A",
+        "Tik B",
+        "Tik C",
+        "Visi"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 3.6,
+      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
+      "image": "path/to/image3.6.png",
+      "options": [
+        "A",
+        "Tik B",
+        "A, B ir C",
+        "B, C ir D"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 3.7,
+      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
+      "image": "public/images/image3.7.png",
+      "options": [
+        "A ir B",
+        "Tik B",
+        "A, B ir C",
+        "C ir D"
+      ],
+      "correct_answer": 3
+    },
+ 
+}

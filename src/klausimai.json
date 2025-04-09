@@ -103,7 +103,7 @@
     "id": 1.10,
     "question": "Medžiojant grandine, medžiotojas privalo:",
     "options": [
-      "Laikytis 300 kampo taisyklės",
+      "Laikytis 30 kampo taisyklės",
       "Laikytis saugaus atstumo tarp medžiotojų",
       "Laikytis minimalaus atstumo tarp medžiotojų",
       "Neprašauti pro šalį nei vieno žvėries"
@@ -1005,108 +1005,9 @@
     },
 
     {
-      "id": 3.01,
+      "id": 4.1,
       "question": "Kuris medžiotojas pasirinko neteisingą šūvio kryptį?",
-      "image": "path/to/image3.0.png",
-      "options": [
-        "A",
-        "B",
-        "C",
-        "D"
-      ],
-      "correct_answer": 2
-    },
-    {
-      "id": 3.1,
-      "question": "Kuris medžiotojas pasirinko neteisingą šūvio kryptį?",
-      "image": "path/to/image3.1.png",
-      "options": [
-        "A",
-        "B",
-        "C",
-        "D"
-      ],
-      "correct_answer": 1
-    },
-    {
-      "id": 3.2,
-      "question": "Kuris medžiotojas pasirinko neteisingą šūvio kryptį?",
-      "image": "path/to/image3.2.png",
-      "options": [
-        "A",
-        "B",
-        "C",
-        "D"
-      ],
-      "correct_answer": 3
-    },
-    {
-      "id": 3.3,
-      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
-      "image": "path/to/image3.3.png",
-      "options": [
-        "A",
-        "B",
-        "Visi",
-        "B, C ir D"
-      ],
-      "correct_answer": 2
-    },
-    {
-      "id": 3.4,
-      "question": "Kurie medžiotojai pasirinko neteisingą šūvio kryptį?",
-      "image": "path/to/image3.4.png",
-      "options": [
-        "A",
-        "B",
-        "C",
-        "C ir D"
-      ],
-      "correct_answer": 3
-    },
-    {
-      "id": 3.5,
-      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
-      "image": "path/to/image3.5.png",
-      "options": [
-        "Tik A",
-        "Tik B",
-        "Tik C",
-        "Visi"
-      ],
-      "correct_answer": 3
-    },
-    {
-      "id": 3.6,
-      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
-      "image": "path/to/image3.6.png",
-      "options": [
-        "A",
-        "Tik B",
-        "A, B ir C",
-        "B, C ir D"
-      ],
-      "correct_answer": 3
-    },
-    {
-      "id": 3.7,
-      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
-      "image": "public/images/image3.7.png",
-      "options": [
-        "A ir B",
-        "Tik B",
-        "A, B ir C",
-        "C ir D"
-      ],
-      "correct_answer": 3
-    },
-
-
-
-    {
-      "id": 3.8,
-      "question": "Kuris medžiotojas pasirinko neteisingą šūvio kryptį?",
-      "image": "public/images/image3.8.png",
+      "image": "public/images/image4.1.png",
       "options": [
         "A",
         "C",
@@ -1116,9 +1017,9 @@
       "correct_answer": 1
     },
     {
-      "id": 3.9,
+      "id": 4.2,
       "question": "Kuris medžiotojas pasirinko neteisingą šūvio kryptį?",
-      "image": "public/images/image3.9.png",
+      "image": "public/images/image4.2.png",
       "options": [
         "A",
         "B",
@@ -1128,9 +1029,9 @@
       "correct_answer": 1
     },
     {
-      "id": 3.11,
+      "id": 4.3,
       "question": "Kuris medžiotojas pasirinko neteisingą šūvio kryptį?",
-      "image": "public/images/image3.11.png",
+      "image": "public/images/image4.3.png",
       "options": [
         "A",
         "B",
@@ -1140,9 +1041,9 @@
       "correct_answer": 3
     },
     {
-      "id": 3.12,
+      "id": 4.4,
       "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
-      "image": "public/images/image3.12.png",
+      "image": "public/images/image4.4.png",
       "options": [
         "A",
         "B",
@@ -1152,21 +1053,21 @@
       "correct_answer": 2
     },
     {
-      "id": 3.13,
+      "id": 4.5,
       "question": "Kurie medžiotojai pasirinko neteisingą šūvio kryptį?",
-      "image": "public/images/image3.13.png",
+      "image": "public/images/image4.5.png",
       "options": [
+        "A",
+        "B",
         "A ir B",
-        "Tik B",
-        "A, B ir C",
         "C ir D"
       ],
       "correct_answer": 3
     },
     {
-      "id": 3.14,
+      "id": 4.6,
       "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
-      "image": "public/images/image3.14.png",
+      "image": "public/images/image4.6.png",
       "options": [
         "Tik A",
         "Tik B",
@@ -1176,9 +1077,9 @@
       "correct_answer": 3
     },
     {
-      "id": 3.15,
+      "id": 4.7,
       "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
-      "image": "public/images/image3.15.png",
+      "image": "public/images/image4.7.png",
       "options": [
         "A",
         "Tik B",
@@ -1188,9 +1089,21 @@
       "correct_answer": 3
     },
     {
-      "id": 3.16,
+      "id": 4.8,
+      "question": "Kurie medžiotojai pasirinko teisingas šaudymo kryptis?",
+      "image": "public/images/image4.8.png",
+      "options": [
+        "A ir B",
+        "Tik B",
+        "A, B ir C",
+        "C ir D"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 4.9,
       "question": "Kurie medžiotojai pasirinko neteisingą šūvio kryptį?",
-      "image": "public/images/image3.16.png",
+      "image": "public/images/image4.9.png",
       "options": [
         "Tik A",
         "Tik B",
@@ -1199,5 +1112,6 @@
       ],
       "correct_answer": 3
     }
+    
   ]
 }
